@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2670" started-at="2019-10-06T07:22:12Z" finished-at="2019-10-06T07:22:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2670" started-at="2019-10-06T07:22:12Z" finished-at="2019-10-06T07:22:15Z">
+      <class name="ProjectForJenkin.ProjectForJenkin.FetchDataTest">
+        <test-method status="PASS" signature="fetchResouces()[pri:0, instance:ProjectForJenkin.ProjectForJenkin.FetchDataTest@73035e27]" name="fetchResouces" duration-ms="2624" started-at="2019-10-06T12:52:12Z" finished-at="2019-10-06T12:52:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetchResouces -->
+      </class> <!-- ProjectForJenkin.ProjectForJenkin.FetchDataTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
