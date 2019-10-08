@@ -13,7 +13,7 @@ public class FetchDataTest {
 	{
 		Response resp = given()
 				.param("userId", "2")
-//				.param("id" , "13")
+				.param("id" , "13")
 				.pathParam("key", "posts")
 .get("https://jsonplaceholder.typicode.com/{key}");
 		
